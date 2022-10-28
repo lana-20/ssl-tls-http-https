@@ -9,4 +9,7 @@ And one of these protocols is SSL. SSL or Secure Sockets Layer, is a protocol th
 
 TLS or transport layer security is the latest industry standard  cryptographic protocol. It is the successor to SSL and it's based on the same specifications. And, like SSL, it also authenticates the server, client, and encrypts the data. 
 
-A lot of websites are now using secure HTTP by default on their websites regardless if sensitive data is going to be exchanged or not. And a lot of this has to do with Google. Because Google is now flagging websites as not secure if they are not protected with SSL. And if a website is not SSL protected, Google will penalize that website in their search  rankings. That's why, if you go to any major website, you'll notice that secure HTTP is being used rather than standard HTTP. 
+A lot of websites are now using secure HTTP by default, regardless if sensitive data is going to be exchanged or not. And a lot of this has to do with Google. Because Google is now flagging websites as not secure if they are not protected with SSL. And if a website is not SSL protected, Google will penalize that website in their search  rankings. That's why, if you go to any major website, you'll notice that secure HTTP is being used rather than standard HTTP. 
+
+
+Video Reference: https://www.youtube.com/watch?v=hExRDVZHhig&t=19s&ab_channel=PowerCertAnimatedVideos
